@@ -1,1 +1,4 @@
 Requirment of the client...
+
+Color Code  -#FFF;
+Second Color- #555;
